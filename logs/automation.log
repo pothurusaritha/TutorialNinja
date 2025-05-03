@@ -1,0 +1,196 @@
+04/28/25 07:18:35 PM:INFO:**** test_001_Account Registration started ****
+04/28/25 07:18:39 PM:INFO:**** Launching Application ****
+04/28/25 07:18:40 PM:INFO:**** Clicking My Account--->Register ****
+04/28/25 07:18:44 PM:INFO:**** Providing Customer details for registration ****
+04/28/25 07:18:49 PM:INFO:**** Account Registration Passed ****
+04/28/25 07:18:49 PM:INFO:**** test_001_Account Registration finished ****
+04/28/25 07:22:44 PM:INFO:**** test_001_Account Registration started ****
+04/28/25 07:22:47 PM:INFO:**** Launching Application ****
+04/28/25 07:22:48 PM:INFO:**** Clicking My Account--->Register ****
+04/28/25 07:22:50 PM:INFO:**** Providing Customer details for registration ****
+04/28/25 07:23:06 PM:INFO:**** Account Registration Failed ****
+04/28/25 09:11:46 PM:INFO:**** test_001_Account Registration started ****
+04/28/25 09:11:54 PM:INFO:**** Launching Application ****
+04/28/25 09:11:54 PM:INFO:**** Clicking My Account--->Register ****
+04/28/25 09:11:57 PM:INFO:**** Providing Customer details for registration ****
+04/28/25 09:12:15 PM:INFO:**** Account Registration Failed ****
+04/28/25 09:14:37 PM:INFO:**** test_001_Account Registration started ****
+04/28/25 09:14:42 PM:INFO:**** Launching Application ****
+04/28/25 09:14:42 PM:INFO:**** Clicking My Account--->Register ****
+04/28/25 09:14:44 PM:INFO:**** Providing Customer details for registration ****
+04/28/25 09:14:54 PM:INFO:**** Account Registration Passed ****
+04/28/25 09:14:54 PM:INFO:**** test_001_Account Registration finished ****
+04/28/25 09:38:27 PM:INFO:**** test_001_Account Registration started ****
+04/28/25 09:38:33 PM:INFO:**** Launching Application ****
+04/28/25 09:38:34 PM:INFO:**** Clicking My Account--->Register ****
+04/28/25 09:38:40 PM:INFO:**** Providing Customer details for registration ****
+04/28/25 09:38:48 PM:INFO:**** Account Registration Passed ****
+04/28/25 09:38:48 PM:INFO:**** test_001_Account Registration finished ****
+04/28/25 09:41:28 PM:INFO:**** test_001_Account Registration started ****
+04/28/25 09:41:32 PM:INFO:**** Launching Application ****
+04/28/25 09:41:33 PM:INFO:**** Clicking My Account--->Register ****
+04/28/25 09:41:38 PM:INFO:**** Providing Customer details for registration ****
+04/28/25 09:41:47 PM:INFO:**** Account Registration Passed ****
+04/28/25 09:41:47 PM:INFO:**** test_001_Account Registration finished ****
+04/28/25 09:43:33 PM:INFO:**** test_001_Account Registration started ****
+04/28/25 09:43:38 PM:INFO:**** Launching Application ****
+04/28/25 09:43:39 PM:INFO:**** Clicking My Account--->Register ****
+04/28/25 09:43:42 PM:INFO:**** Providing Customer details for registration ****
+04/28/25 09:43:59 PM:INFO:**** Account Registration Failed ****
+04/28/25 09:45:39 PM:INFO:**** test_001_Account Registration started ****
+04/28/25 09:45:43 PM:INFO:**** Launching Application ****
+04/28/25 09:45:45 PM:INFO:**** Clicking My Account--->Register ****
+04/28/25 09:45:47 PM:INFO:**** Providing Customer details for registration ****
+04/28/25 09:46:06 PM:INFO:**** Account Registration Failed ****
+04/28/25 10:00:31 PM:INFO:**** test_001_Account Registration started ****
+04/28/25 10:00:37 PM:INFO:**** Launching Application ****
+04/28/25 10:00:38 PM:INFO:**** Clicking My Account--->Register ****
+04/28/25 10:00:47 PM:INFO:**** Providing Customer details for registration ****
+04/28/25 10:00:58 PM:INFO:**** Account Registration Passed ****
+04/28/25 10:00:58 PM:INFO:**** test_001_Account Registration finished ****
+05/01/25 06:25:06 PM:INFO:**** Starting of test_002_login ************
+05/01/25 06:25:06 PM:INFO:**** test_001_Account Registration started ****
+05/01/25 06:25:09 PM:INFO:**** Launching Application ****
+05/01/25 06:25:18 PM:INFO:Login test passed
+05/01/25 06:25:18 PM:INFO:**** End of test_002_login ******
+05/01/25 06:30:33 PM:INFO:**** test_001_Account Registration started ****
+05/01/25 06:30:33 PM:INFO:**** test_001_Account Registration started ****
+05/01/25 06:30:36 PM:INFO:**** Launching Application ****
+05/01/25 06:30:36 PM:INFO:**** Launching Application ****
+05/01/25 06:30:37 PM:INFO:**** Clicking My Account--->Register ****
+05/01/25 06:30:37 PM:INFO:**** Clicking My Account--->Register ****
+05/01/25 06:30:40 PM:INFO:**** Providing Customer details for registration ****
+05/01/25 06:30:40 PM:INFO:**** Providing Customer details for registration ****
+05/01/25 06:30:44 PM:INFO:**** Account Registration Passed ****
+05/01/25 06:30:44 PM:INFO:**** Account Registration Passed ****
+05/01/25 06:30:44 PM:INFO:**** test_001_Account Registration finished ****
+05/01/25 06:30:44 PM:INFO:**** test_001_Account Registration finished ****
+05/01/25 06:30:52 PM:INFO:**** Starting of test_002_login ************
+05/01/25 06:30:52 PM:INFO:**** Starting of test_002_login ************
+05/01/25 06:30:52 PM:INFO:**** test_001_Account Login started ****
+05/01/25 06:30:52 PM:INFO:**** test_001_Account Login started ****
+05/01/25 06:30:56 PM:INFO:**** Launching Application ****
+05/01/25 06:30:56 PM:INFO:**** Launching Application ****
+05/01/25 06:30:59 PM:INFO:Login test passed
+05/01/25 06:30:59 PM:INFO:Login test passed
+05/01/25 06:30:59 PM:INFO:**** End of test_002_login ******
+05/01/25 06:30:59 PM:INFO:**** End of test_002_login ******
+05/02/25 10:53:32 AM:INFO:**** Starting of test_002_login ************
+05/02/25 10:53:32 AM:INFO:**** test_001_Account Login started ****
+05/02/25 10:53:34 AM:INFO:**** Launching Application ****
+05/02/25 10:53:41 AM:INFO:Login test passed
+05/02/25 10:53:41 AM:INFO:**** End of test_002_login ******
+05/02/25 04:30:23 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 04:30:26 PM:INFO:*** Launching Application ***
+05/02/25 04:44:31 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 04:44:35 PM:INFO:*** Launching Application ***
+05/02/25 05:44:52 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 05:44:57 PM:INFO:*** Launching Application ***
+05/02/25 05:46:29 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 05:46:33 PM:INFO:*** Launching Application ***
+05/02/25 05:47:39 PM:INFO:********* Ending of test_003_login_ddt *********
+05/02/25 05:50:23 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 05:50:27 PM:INFO:*** Launching Application ***
+05/02/25 05:51:29 PM:INFO:********* Ending of test_003_login_ddt *********
+05/02/25 06:48:20 PM:INFO:**** Starting of test_002_login ************
+05/02/25 06:48:20 PM:INFO:**** Starting of test_002_login ************
+05/02/25 06:48:20 PM:INFO:**** Starting of test_002_login ************
+05/02/25 06:48:20 PM:INFO:**** test_001_Account Login started ****
+05/02/25 06:48:20 PM:INFO:**** test_001_Account Login started ****
+05/02/25 06:48:20 PM:INFO:**** test_001_Account Login started ****
+05/02/25 06:48:24 PM:INFO:**** Launching Application ****
+05/02/25 06:48:24 PM:INFO:**** Launching Application ****
+05/02/25 06:48:24 PM:INFO:**** Launching Application ****
+05/02/25 06:48:28 PM:INFO:Login test passed
+05/02/25 06:48:28 PM:INFO:Login test passed
+05/02/25 06:48:28 PM:INFO:Login test passed
+05/02/25 06:48:28 PM:INFO:**** End of test_002_login ******
+05/02/25 06:48:28 PM:INFO:**** End of test_002_login ******
+05/02/25 06:48:28 PM:INFO:**** End of test_002_login ******
+05/02/25 06:48:36 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 06:48:36 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 06:48:36 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 06:48:38 PM:INFO:*** Launching Application ***
+05/02/25 06:48:38 PM:INFO:*** Launching Application ***
+05/02/25 06:48:38 PM:INFO:*** Launching Application ***
+05/02/25 06:49:39 PM:INFO:********* Ending of test_003_login_ddt *********
+05/02/25 06:49:39 PM:INFO:********* Ending of test_003_login_ddt *********
+05/02/25 06:49:39 PM:INFO:********* Ending of test_003_login_ddt *********
+05/02/25 06:52:12 PM:INFO:**** test_001_Account Registration started ****
+05/02/25 06:52:12 PM:INFO:**** test_001_Account Registration started ****
+05/02/25 06:52:12 PM:INFO:**** test_001_Account Registration started ****
+05/02/25 06:52:14 PM:INFO:**** Launching Application ****
+05/02/25 06:52:14 PM:INFO:**** Launching Application ****
+05/02/25 06:52:14 PM:INFO:**** Launching Application ****
+05/02/25 06:52:14 PM:INFO:**** Clicking My Account--->Register ****
+05/02/25 06:52:14 PM:INFO:**** Clicking My Account--->Register ****
+05/02/25 06:52:14 PM:INFO:**** Clicking My Account--->Register ****
+05/02/25 06:52:15 PM:INFO:**** Providing Customer details for registration ****
+05/02/25 06:52:15 PM:INFO:**** Providing Customer details for registration ****
+05/02/25 06:52:15 PM:INFO:**** Providing Customer details for registration ****
+05/02/25 06:52:19 PM:INFO:**** Account Registration Passed ****
+05/02/25 06:52:19 PM:INFO:**** Account Registration Passed ****
+05/02/25 06:52:19 PM:INFO:**** Account Registration Passed ****
+05/02/25 06:52:19 PM:INFO:**** test_001_Account Registration finished ****
+05/02/25 06:52:19 PM:INFO:**** test_001_Account Registration finished ****
+05/02/25 06:52:19 PM:INFO:**** test_001_Account Registration finished ****
+05/02/25 06:52:25 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 06:52:25 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 06:52:25 PM:INFO:********* starting of test_003_login_ddt *********
+05/02/25 06:52:27 PM:INFO:*** Launching Application ***
+05/02/25 06:52:27 PM:INFO:*** Launching Application ***
+05/02/25 06:52:27 PM:INFO:*** Launching Application ***
+05/02/25 06:53:28 PM:INFO:********* Ending of test_003_login_ddt *********
+05/02/25 06:53:28 PM:INFO:********* Ending of test_003_login_ddt *********
+05/02/25 06:53:28 PM:INFO:********* Ending of test_003_login_ddt *********
+05/03/25 12:05:45 PM:INFO:**** Starting of test_002_login ************
+05/03/25 12:05:45 PM:INFO:**** Starting of test_002_login ************
+05/03/25 12:05:45 PM:INFO:**** Starting of test_002_login ************
+05/03/25 12:05:45 PM:INFO:**** test_001_Account Login started ****
+05/03/25 12:05:45 PM:INFO:**** test_001_Account Login started ****
+05/03/25 12:05:45 PM:INFO:**** test_001_Account Login started ****
+05/03/25 12:05:48 PM:INFO:**** Launching Application ****
+05/03/25 12:05:48 PM:INFO:**** Launching Application ****
+05/03/25 12:05:48 PM:INFO:**** Launching Application ****
+05/03/25 12:05:51 PM:INFO:Login test passed
+05/03/25 12:05:51 PM:INFO:Login test passed
+05/03/25 12:05:51 PM:INFO:Login test passed
+05/03/25 12:05:51 PM:INFO:**** End of test_002_login ******
+05/03/25 12:05:51 PM:INFO:**** End of test_002_login ******
+05/03/25 12:05:51 PM:INFO:**** End of test_002_login ******
+05/03/25 12:05:58 PM:INFO:********* starting of test_003_login_ddt *********
+05/03/25 12:05:58 PM:INFO:********* starting of test_003_login_ddt *********
+05/03/25 12:05:58 PM:INFO:********* starting of test_003_login_ddt *********
+05/03/25 12:05:59 PM:INFO:*** Launching Application ***
+05/03/25 12:05:59 PM:INFO:*** Launching Application ***
+05/03/25 12:05:59 PM:INFO:*** Launching Application ***
+05/03/25 12:07:02 PM:INFO:********* Ending of test_003_login_ddt *********
+05/03/25 12:07:02 PM:INFO:********* Ending of test_003_login_ddt *********
+05/03/25 12:07:02 PM:INFO:********* Ending of test_003_login_ddt *********
+05/03/25 12:11:50 PM:INFO:**** test_001_Account Registration started ****
+05/03/25 12:11:50 PM:INFO:**** test_001_Account Registration started ****
+05/03/25 12:11:50 PM:INFO:**** test_001_Account Registration started ****
+05/03/25 12:11:51 PM:INFO:**** Launching Application ****
+05/03/25 12:11:51 PM:INFO:**** Launching Application ****
+05/03/25 12:11:51 PM:INFO:**** Launching Application ****
+05/03/25 12:11:52 PM:INFO:**** Clicking My Account--->Register ****
+05/03/25 12:11:52 PM:INFO:**** Clicking My Account--->Register ****
+05/03/25 12:11:52 PM:INFO:**** Clicking My Account--->Register ****
+05/03/25 12:11:53 PM:INFO:**** Providing Customer details for registration ****
+05/03/25 12:11:53 PM:INFO:**** Providing Customer details for registration ****
+05/03/25 12:11:53 PM:INFO:**** Providing Customer details for registration ****
+05/03/25 12:11:56 PM:INFO:**** Account Registration Passed ****
+05/03/25 12:11:56 PM:INFO:**** Account Registration Passed ****
+05/03/25 12:11:56 PM:INFO:**** Account Registration Passed ****
+05/03/25 12:11:56 PM:INFO:**** test_001_Account Registration finished ****
+05/03/25 12:11:56 PM:INFO:**** test_001_Account Registration finished ****
+05/03/25 12:11:56 PM:INFO:**** test_001_Account Registration finished ****
+05/03/25 12:12:04 PM:INFO:********* starting of test_003_login_ddt *********
+05/03/25 12:12:04 PM:INFO:********* starting of test_003_login_ddt *********
+05/03/25 12:12:04 PM:INFO:********* starting of test_003_login_ddt *********
+05/03/25 12:12:05 PM:INFO:*** Launching Application ***
+05/03/25 12:12:05 PM:INFO:*** Launching Application ***
+05/03/25 12:12:05 PM:INFO:*** Launching Application ***
+05/03/25 12:13:06 PM:INFO:********* Ending of test_003_login_ddt *********
+05/03/25 12:13:06 PM:INFO:********* Ending of test_003_login_ddt *********
+05/03/25 12:13:06 PM:INFO:********* Ending of test_003_login_ddt *********
